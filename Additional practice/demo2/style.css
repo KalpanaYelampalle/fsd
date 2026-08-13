@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-image:linear-gradient(
+        to right,pink,yellow
+    );
+}
+h1{
+    font-family:"Franklin Gothic Medium","Arial Narrow",sans-serif;
+}
+h1{
+    color:blue;
+}
