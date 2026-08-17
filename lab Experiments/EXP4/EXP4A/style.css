@@ -1,0 +1,28 @@
+/* Element Selector */
+h1 {
+  color: rgb(235, 10, 122);
+}
+
+/* ID Selector */
+#heading {
+  color: rgb(55, 19, 216);
+  text-align: center;
+}
+
+/* Class Selector */
+.note {
+  color: rgb(130, 17, 223);
+  font-size: 20px;
+  background-color: rgb(238, 193, 161);
+}
+
+/* Group Selector */
+h3,
+p {
+  background-color: rgb(96, 230, 174);
+}
+
+/* Universal Selector */
+* {
+  font-family: Arial;
+}
