@@ -1,0 +1,12 @@
+input[type="text"] {
+  background-color: rgb(134, 224, 139);
+}
+
+input[type="password"] {
+  background-color: rgb(117, 180, 182);
+}
+
+a[target] {
+  color: green;
+  font-weight: bold;
+}
